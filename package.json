@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Modern UI/UX Designer Portfolio with Micro-interactions",
   "private": true,
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
