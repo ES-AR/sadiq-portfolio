@@ -1,5 +1,2 @@
-import type { Config } from 'next';
+export const dynamic = 'force-dynamic';
 
-export default {
-  dynamic: 'force-dynamic',
-} satisfies Config;
