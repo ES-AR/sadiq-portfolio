@@ -46,7 +46,7 @@ const Footer = () => {
           className="text-2xl font-bold"
           variants={itemVariants}
         >
-          Let's Work Together
+          Let&apos;s Work Together
         </motion.h3>
 
         <motion.p className="text-gray-600" variants={itemVariants}>
